@@ -7,6 +7,7 @@
 2. Navitgate to the top menu **Window - Light Studio** or press shortcut **Ctrl + L** to open the plug-in.
 3. Click the **Create** button to open the control panel.
 4. Create your first **Light Studio Profile**.
+5. Each Profile can redefine a new central point.
 5. Create a few lights in the first profile.
 6. Click the update button to update the **Control Panel**.
 7. In the Panel **Selected Light** , adjust the distance of your light to the object, then change the light color or brightness.
